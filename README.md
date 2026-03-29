@@ -2,7 +2,9 @@ A simple educational website built with HTML, CSS, and JavaScript.
 It provides a login system (without database), subject/topic management, and settings — all stored in browser localStorage.
 
 📌 Features (v2)
+
 Login Screen
+
 add Sharing Feature 
 
 Default credentials: user / user123
